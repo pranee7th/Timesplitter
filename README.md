@@ -1,4 +1,5 @@
 What is TimeSplitter?
+
 TimeSplitter is a Python package that provides a TimeSplitter class with various methods to handle datetime data effectively. It offers functionalities such as:
 
 Automated Time Splitting: Easily split datetime data into different time intervals like year, month, and time (hour, minute, second).
