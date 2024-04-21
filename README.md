@@ -3,11 +3,14 @@ What is TimeSplitter?
 TimeSplitter is a Python package that provides a TimeSplitter class with various methods to handle datetime data effectively. It offers functionalities such as:
 
 Automated Time Splitting: Easily split datetime data into different time intervals like year, month, and time (hour, minute, second).
-Conversion of Timezones: Hassle-free conversion of datetime columns to different timezones.
-Split Data and time into seperate columns
-Holiday Detection: Identify holidays in datetime data based on specified countries.
+Conversion of Timezones(convert_to_timezone): Hassle-free conversion of datetime columns to different timezones.
+split_date_and_time : Split Date and time into seperate columns
+Holiday Detection (detect_holidays): Identify holidays in datetime data based on specified countries.
 Handling Missing Data: Convenient methods to handle missing data in datetime columns.
-Visualization: Visualize the distribution of datetime data and engagement trends over time.
+Visualization (plot_time_distribution): Visualize the distribution of datetime data and engagement trends over time.
+calculate_relative_time: Calculate the specified time interval and store the result in a new column.
+
+
 
 Files Overview
 
