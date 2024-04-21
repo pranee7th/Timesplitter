@@ -10,6 +10,7 @@ Handling Missing Data: Convenient methods to handle missing data in datetime col
 Visualization: Visualize the distribution of datetime data and engagement trends over time.
 
 Files Overview
+
 timesplitter.py: This is the main Python file containing the TimeSplitter class definition. 
 It provides all the methods necessary for time manipulation and analysis, including splitting datetime data into different intervals, handling missing data, converting timezones, detecting holidays, and more.
 
@@ -22,4 +23,5 @@ Elon Musk tweet dataset using timesplitter().py: This Notebook provides examples
 It demonstrates how time splitter can be used to perform various time-based analyses, such as plotting engagement trends over different time intervals. 
 
 Contribution
+
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or documentation improvements, your contributions help make TimeSplitter better for everyone. 
